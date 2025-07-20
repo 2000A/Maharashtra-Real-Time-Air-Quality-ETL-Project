@@ -1,0 +1,542 @@
+country,state,city,station,last_update,latitude,longitude,pollutant_id,min_value,max_value,avg_value,range,aqi_value,air_quality,date,time
+India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",2025-07-20 17:00:00,19.8389439,75.244448,OZONE,12.0,49.0,34.0,37.0,34.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Aurangabad,"Rachnakar Colony, Aurangabad - MPCB",2025-07-20 17:00:00,19.863756,75.321188,SO2,9.0,25.0,20.0,16.0,25.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Badlapur,"Katrap, Badlapur - MPCB",2025-07-20 17:00:00,19.16485,73.23409,PM2.5,34.0,67.0,44.0,33.0,73.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Badlapur,"Katrap, Badlapur - MPCB",2025-07-20 17:00:00,19.16485,73.23409,CO,26.0,40.0,31.0,14.0,382.0,Very Poor,2025-07-20,17:00:00
+India,Maharashtra,Belapur,"CBD Belapur, Belapur - MPCB",2025-07-20 17:00:00,19.0243902,73.0406721,NO2,9.0,43.0,18.0,34.0,22.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Belapur,"CBD Belapur, Belapur - MPCB",2025-07-20 17:00:00,19.0243902,73.0406721,SO2,2.0,4.0,3.0,2.0,4.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Belapur,"CBD Belapur, Belapur - MPCB",2025-07-20 17:00:00,19.0243902,73.0406721,CO,12.0,26.0,17.0,14.0,300.0,Poor,2025-07-20,17:00:00
+India,Maharashtra,Bhiwandi,"Gokul Nagar, Bhiwandi - MPCB",2025-07-20 17:00:00,19.309073,73.057223,PM2.5,34.0,69.0,48.0,35.0,80.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Ahmednagar,"Tarakpur, Ahmednagar - MPCB",2025-07-20 17:00:00,19.10122,74.73339,NH3,4.0,7.0,6.0,3.0,2.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Ahmednagar,"Tarakpur, Ahmednagar - MPCB",2025-07-20 17:00:00,19.10122,74.73339,OZONE,10.0,39.0,22.0,29.0,22.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Akola,"Ramdaspeth, Akola - MPCB",2025-07-20 17:00:00,20.719516,77.000253,PM10,35.0,115.0,64.0,80.0,64.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Akola,"Ramdaspeth, Akola - MPCB",2025-07-20 17:00:00,20.719516,77.000253,NO2,16.0,23.0,20.0,7.0,25.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Amravati,"Shivneri Colony, Amravati - MPCB",2025-07-20 17:00:00,20.9402359,77.7895248,PM10,67.0,108.0,85.0,41.0,85.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Amravati,"Shri Shivaji Science College, Amravati - MPCB",2025-07-20 17:00:00,20.939198,77.765701,NO2,2.0,35.0,10.0,33.0,12.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Aurangabad,"MIDC Chilkalthana, Aurangabad - MPCB",2025-07-20 17:00:00,19.87562,75.38731,PM2.5,19.0,32.0,25.0,13.0,42.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Bhiwandi,"Gokul Nagar, Bhiwandi - MPCB",2025-07-20 17:00:00,19.309073,73.057223,NH3,4.0,7.0,4.0,3.0,1.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Bhiwandi,"Gokul Nagar, Bhiwandi - MPCB",2025-07-20 17:00:00,19.309073,73.057223,SO2,12.0,23.0,15.0,11.0,19.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",2025-07-20 17:00:00,19.9775302,79.2337086,PM10,29.0,144.0,63.0,115.0,63.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",2025-07-20 17:00:00,19.9775302,79.2337086,CO,48.0,52.0,51.0,4.0,,Unknown,2025-07-20,17:00:00
+India,Maharashtra,Dhule,"Deopur, Dhule - MPCB",2025-07-20 17:00:00,20.918946,74.776388,NO2,3.0,23.0,8.0,20.0,10.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Jalgaon,"Prabhat Colony, Jalgaon - MPCB",2025-07-20 17:00:00,21.001264,75.565602,SO2,3.0,12.0,9.0,9.0,11.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Colaba, Mumbai - MPCB",2025-07-20 17:00:00,18.91,72.82,CO,21.0,23.0,22.0,2.0,330.0,Very Poor,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Deonar, Mumbai - IITM",2025-07-20 17:00:00,19.04946,72.923,PM10,37.0,105.0,71.0,68.0,71.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Ghatkopar, Mumbai - BMC",2025-07-20 17:00:00,19.083694,72.920967,PM10,18.0,45.0,30.0,27.0,30.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Kandivali East, Mumbai - MPCB",2025-07-20 17:00:00,19.2058,72.8682,PM2.5,36.0,51.0,41.0,15.0,68.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Kherwadi_Bandra East, Mumbai - MPCB",2025-07-20 17:00:00,19.0632143,72.8456324,NH3,4.0,12.0,9.0,8.0,2.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Khindipada-Bhandup West, Mumbai - IITM",2025-07-20 17:00:00,19.1653323,72.922099,PM10,1.0,47.0,25.0,46.0,25.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Khindipada-Bhandup West, Mumbai - IITM",2025-07-20 17:00:00,19.1653323,72.922099,NO2,9.0,22.0,14.0,13.0,18.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Bandra Kurla Complex, Mumbai - IITM",2025-07-20 17:00:00,19.053536,72.84643,NO2,5.0,20.0,12.0,15.0,15.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Bandra Kurla Complex, Mumbai - IITM",2025-07-20 17:00:00,19.053536,72.84643,NH3,1.0,5.0,2.0,4.0,0.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Bandra Kurla Complex, Mumbai - MPCB",2025-07-20 17:00:00,19.065931,72.862131,PM10,34.0,78.0,63.0,44.0,63.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Bandra Kurla Complex, Mumbai - MPCB",2025-07-20 17:00:00,19.065931,72.862131,NH3,12.0,19.0,14.0,7.0,4.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Borivali East, Mumbai - IITM",2025-07-20 17:00:00,19.23241,72.86895,NO2,34.0,66.0,44.0,32.0,55.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Borivali East, Mumbai - IITM",2025-07-20 17:00:00,19.23241,72.86895,NH3,3.0,4.0,4.0,1.0,1.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Borivali East, Mumbai - IITM",2025-07-20 17:00:00,19.23241,72.86895,CO,2.0,48.0,35.0,46.0,407.0,Severe,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Chakala-Andheri East, Mumbai - IITM",2025-07-20 17:00:00,19.11074,72.86084,CO,6.0,18.0,11.0,12.0,214.0,Poor,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Chembur, Mumbai - MPCB",2025-07-20 17:00:00,19.0364585,72.8954371,NO2,13.0,24.0,17.0,11.0,21.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Chembur, Mumbai - MPCB",2025-07-20 17:00:00,19.0364585,72.8954371,NH3,7.0,12.0,8.0,5.0,2.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",2025-07-20 17:00:00,19.10078,72.87462,OZONE,7.0,8.0,7.0,1.0,7.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Colaba, Mumbai - MPCB",2025-07-20 17:00:00,18.91,72.82,NO2,22.0,23.0,22.0,1.0,28.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Kolhapur,"Shivaji University, Kolhapur - MPCB",2025-07-20 17:00:00,16.6870449,74.2505872,OZONE,7.0,28.0,19.0,21.0,19.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Kolhapur,"Sinchan Bhavan, Kolhapur - MPCB",2025-07-20 17:00:00,16.7143745,74.2426398,SO2,1.0,3.0,2.0,2.0,2.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Kolhapur,"Sinchan Bhavan, Kolhapur - MPCB",2025-07-20 17:00:00,16.7143745,74.2426398,CO,3.0,10.0,5.0,7.0,137.0, Moderate,2025-07-20,17:00:00
+India,Maharashtra,Kolhapur,"Sinchan Bhavan, Kolhapur - MPCB",2025-07-20 17:00:00,16.7143745,74.2426398,OZONE,7.0,43.0,32.0,36.0,32.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mahad,"Kamble Tarf Birwadi, Mahad - MPCB",2025-07-20 17:00:00,18.1023399,73.4783687,PM2.5,24.0,80.0,46.0,56.0,76.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Jalna,"Old MIDC, Jalna - MPCB",2025-07-20 17:00:00,19.854616,75.905894,NH3,2.0,5.0,4.0,3.0,1.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Kalyan,"Khadakpada, Kalyan - MPCB",2025-07-20 17:00:00,19.25292,73.142019,PM2.5,17.0,260.0,61.0,243.0,101.0, Moderate,2025-07-20,17:00:00
+India,Maharashtra,Kalyan,"Khadakpada, Kalyan - MPCB",2025-07-20 17:00:00,19.25292,73.142019,NO2,7.0,9.0,8.0,2.0,10.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Kalyan,"Pimpleshwar Mandir, Kalyan - MPCB",2025-07-20 17:00:00,19.192056,72.9585188,NO2,15.0,29.0,22.0,14.0,28.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Kalyan,"Pimpleshwar Mandir, Kalyan - MPCB",2025-07-20 17:00:00,19.192056,72.9585188,CO,32.0,54.0,41.0,22.0,444.0,Severe,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Navy Nagar-Colaba, Mumbai - IITM",2025-07-20 17:00:00,18.897756,72.81332,SO2,9.0,15.0,11.0,6.0,14.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Powai, Mumbai - MPCB",2025-07-20 17:00:00,19.1375,72.915056,SO2,19.0,45.0,24.0,26.0,30.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Kurla, Mumbai - MPCB",2025-07-20 17:00:00,19.0863,72.8888,OZONE,28.0,29.0,28.0,1.0,28.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Malad West, Mumbai - IITM",2025-07-20 17:00:00,19.19709,72.82204,NH3,7.0,10.0,8.0,3.0,2.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Malad West, Mumbai - IITM",2025-07-20 17:00:00,19.19709,72.82204,SO2,4.0,7.0,5.0,3.0,6.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Malad West, Mumbai - IITM",2025-07-20 17:00:00,19.19709,72.82204,OZONE,2.0,15.0,11.0,13.0,11.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Byculla, Mumbai - BMC",2025-07-20 17:00:00,18.9767,72.838,PM2.5,9.0,32.0,20.0,23.0,33.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Byculla, Mumbai - BMC",2025-07-20 17:00:00,18.9767,72.838,PM10,35.0,61.0,47.0,26.0,47.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Byculla, Mumbai - BMC",2025-07-20 17:00:00,18.9767,72.838,SO2,1.0,2.0,1.0,1.0,1.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Byculla, Mumbai - BMC",2025-07-20 17:00:00,18.9767,72.838,CO,2.0,14.0,5.0,12.0,137.0, Moderate,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Byculla, Mumbai - BMC",2025-07-20 17:00:00,18.9767,72.838,OZONE,8.0,18.0,16.0,10.0,16.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Colaba, Mumbai - MPCB",2025-07-20 17:00:00,18.91,72.82,NH3,3.0,3.0,3.0,0.0,1.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Pune,"Savitribai Phule Pune University, Pune - MPCB",2025-07-20 17:00:00,18.547056,73.826908,PM10,33.0,67.0,54.0,34.0,54.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Pune,"Transport Nagar-Nigdi, Pune - IITM",2025-07-20 17:00:00,18.664282,73.763966,PM2.5,4.0,48.0,18.0,44.0,30.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Pune,"Transport Nagar-Nigdi, Pune - IITM",2025-07-20 17:00:00,18.664282,73.763966,PM10,14.0,49.0,35.0,35.0,35.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Pune,"Transport Nagar-Nigdi, Pune - IITM",2025-07-20 17:00:00,18.664282,73.763966,CO,1.0,84.0,32.0,83.0,388.0,Very Poor,2025-07-20,17:00:00
+India,Maharashtra,Sangli,"Vijay Nagar, Sangli - MPCB",2025-07-20 17:00:00,16.5038,74.3623,OZONE,9.0,42.0,25.0,33.0,25.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Solapur,"Dnyaneshwar Nagar, Solapur - MPCB",2025-07-20 17:00:00,17.6336264,75.9132495,OZONE,8.0,27.0,19.0,19.0,19.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Solapur,"Ratandeep Housing Society, Solapur - MPCB",2025-07-20 17:00:00,17.65439,75.90649,SO2,1.0,2.0,1.0,1.0,1.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Thane,"Kasarvadavali, Thane - MPCB",2025-07-20 17:00:00,19.26777,72.97182,NO2,8.0,15.0,12.0,7.0,15.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Thane,"Upvan Fort, Thane - MPCB",2025-07-20 17:00:00,19.222279,72.957979,NH3,1.0,4.0,2.0,3.0,0.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Ulhasnagar,"Sidhi Vinayak Nagar, Ulhasnagar - MPCB",2025-07-20 17:00:00,19.235581,73.159121,PM10,32.0,101.0,53.0,69.0,53.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Virar,"Bolinj, Virar - MPCB",2025-07-20 17:00:00,19.445821,72.7988231,CO,5.0,60.0,20.0,55.0,318.0,Very Poor,2025-07-20,17:00:00
+India,Maharashtra,Navi Mumbai,"Kopripada-Vashi, Navi Mumbai - MPCB",2025-07-20 17:00:00,19.090337,73.014232,OZONE,2.0,38.0,26.0,36.0,26.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Navi Mumbai,"Mahape, Navi Mumbai - MPCB",2025-07-20 17:00:00,19.1135051,73.008978,PM2.5,12.0,37.0,25.0,25.0,42.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Navi Mumbai,"Mahape, Navi Mumbai - MPCB",2025-07-20 17:00:00,19.1135051,73.008978,NO2,34.0,36.0,35.0,2.0,44.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Navi Mumbai,"Mahape, Navi Mumbai - MPCB",2025-07-20 17:00:00,19.1135051,73.008978,SO2,25.0,25.0,25.0,0.0,31.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Navi Mumbai,"Mahape, Navi Mumbai - MPCB",2025-07-20 17:00:00,19.1135051,73.008978,CO,28.0,33.0,29.0,5.0,371.0,Very Poor,2025-07-20,17:00:00
+India,Maharashtra,Navi Mumbai,"Sector-2E Kalamboli, Navi Mumbai - MPCB",2025-07-20 17:00:00,19.02579,73.10297,PM2.5,22.0,63.0,44.0,41.0,73.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Navi Mumbai,"Sector-2E Kalamboli, Navi Mumbai - MPCB",2025-07-20 17:00:00,19.02579,73.10297,NO2,13.0,36.0,23.0,23.0,29.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB",2025-07-20 17:00:00,21.152875,79.0517531,PM10,40.0,110.0,74.0,70.0,74.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB",2025-07-20 17:00:00,21.152875,79.0517531,NH3,1.0,3.0,1.0,2.0,0.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB",2025-07-20 17:00:00,21.152875,79.0517531,SO2,1.0,15.0,4.0,14.0,5.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB",2025-07-20 17:00:00,21.152875,79.0517531,CO,8.0,110.0,18.0,102.0,306.0,Very Poor,2025-07-20,17:00:00
+India,Maharashtra,Nagpur,"Ram Nagar, Nagpur - MPCB",2025-07-20 17:00:00,21.143383,79.048912,PM10,66.0,102.0,86.0,36.0,86.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Nanded,"Sneh Nagar, Nanded - MPCB",2025-07-20 17:00:00,19.173852,77.296291,SO2,4.0,5.0,5.0,1.0,6.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Pune,"Bhumkar Nagar, Pune - IITM",2025-07-20 17:00:00,18.60577,73.749976,PM2.5,7.0,220.0,37.0,213.0,61.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Pune,"Bhumkar Nagar, Pune - IITM",2025-07-20 17:00:00,18.60577,73.749976,CO,42.0,100.0,48.0,58.0,488.0,Severe,2025-07-20,17:00:00
+India,Maharashtra,Pune,"Katraj Dairy, Pune - MPCB",2025-07-20 17:00:00,18.45445,73.854155,CO,8.0,66.0,37.0,58.0,419.0,Severe,2025-07-20,17:00:00
+India,Maharashtra,Pune,"Mhada Colony, Pune - IITM",2025-07-20 17:00:00,18.57304,73.927715,OZONE,5.0,23.0,19.0,18.0,19.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Pune,"Panchawati_Pashan, Pune - IITM",2025-07-20 17:00:00,18.536457,73.805454,CO,4.0,27.0,19.0,23.0,312.0,Very Poor,2025-07-20,17:00:00
+India,Maharashtra,Navi Mumbai,"Tondare-Taloja, Navi Mumbai - MPCB",2025-07-20 17:00:00,19.063,73.1209,SO2,2.0,5.0,3.0,3.0,4.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Pimpri-Chinchwad,"Gavalinagar, Pimpri Chinchwad - MPCB",2025-07-20 17:00:00,18.63673,73.82487,SO2,2.0,4.0,3.0,2.0,4.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Pimpri-Chinchwad,"Savta Mali Nagar, Pimpri-Chinchwad - IITM",2025-07-20 17:00:00,18.614767,73.799516,PM10,23.0,65.0,52.0,42.0,52.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Pimpri-Chinchwad,"Savta Mali Nagar, Pimpri-Chinchwad - IITM",2025-07-20 17:00:00,18.614767,73.799516,NO2,19.0,40.0,27.0,21.0,34.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Shivaji Nagar, Mumbai - BMC",2025-07-20 17:00:00,19.060498,72.923356,OZONE,1.0,12.0,10.0,11.0,10.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Worli, Mumbai - MPCB",2025-07-20 17:00:00,18.9936162,72.8128113,OZONE,20.0,21.0,20.0,1.0,20.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Nagpur,"Ambazari, Nagpur - MPCB",2025-07-20 17:00:00,21.121801,79.04952,NO2,2.0,53.0,19.0,51.0,24.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Nanded,"Sneh Nagar, Nanded - MPCB",2025-07-20 17:00:00,19.173852,77.296291,OZONE,3.0,44.0,34.0,41.0,34.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",2025-07-20 17:00:00,20.0073285,73.7762427,OZONE,17.0,23.0,18.0,6.0,18.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Ahmednagar,"Tarakpur, Ahmednagar - MPCB",2025-07-20 17:00:00,19.10122,74.73339,PM10,35.0,78.0,50.0,43.0,50.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Akola,"Ramdaspeth, Akola - MPCB",2025-07-20 17:00:00,20.719516,77.000253,CO,12.0,57.0,17.0,45.0,300.0,Poor,2025-07-20,17:00:00
+India,Maharashtra,Akola,"Ramdaspeth, Akola - MPCB",2025-07-20 17:00:00,20.719516,77.000253,OZONE,5.0,30.0,22.0,25.0,22.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Amravati,"Shivneri Colony, Amravati - MPCB",2025-07-20 17:00:00,20.9402359,77.7895248,SO2,4.0,6.0,5.0,2.0,6.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Amravati,"Shivneri Colony, Amravati - MPCB",2025-07-20 17:00:00,20.9402359,77.7895248,CO,10.0,28.0,12.0,18.0,228.0,Poor,2025-07-20,17:00:00
+India,Maharashtra,Amravati,"Shri Shivaji Science College, Amravati - MPCB",2025-07-20 17:00:00,20.939198,77.765701,PM10,61.0,118.0,86.0,57.0,86.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Amravati,"Shri Shivaji Science College, Amravati - MPCB",2025-07-20 17:00:00,20.939198,77.765701,OZONE,2.0,54.0,40.0,52.0,40.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Bhiwandi,"Gokul Nagar, Bhiwandi - MPCB",2025-07-20 17:00:00,19.309073,73.057223,NO2,38.0,54.0,44.0,16.0,55.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Bhiwandi,"Gokul Nagar, Bhiwandi - MPCB",2025-07-20 17:00:00,19.309073,73.057223,OZONE,15.0,55.0,38.0,40.0,38.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Boisar,"Khaira, Boisar - MPCB",2025-07-20 17:00:00,19.786089,72.757971,PM2.5,20.0,38.0,27.0,18.0,45.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Chandrapur,"Chauhan Colony, Chandrapur - MPCB",2025-07-20 17:00:00,19.9629,79.298714,CO,22.0,36.0,26.0,14.0,353.0,Very Poor,2025-07-20,17:00:00
+India,Maharashtra,Chandrapur,"Chauhan Colony, Chandrapur - MPCB",2025-07-20 17:00:00,19.9629,79.298714,OZONE,18.0,18.0,18.0,0.0,18.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Aurangabad,"MIDC Chilkalthana, Aurangabad - MPCB",2025-07-20 17:00:00,19.87562,75.38731,NO2,2.0,18.0,6.0,16.0,8.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",2025-07-20 17:00:00,19.8389439,75.244448,CO,2.0,62.0,5.0,60.0,137.0, Moderate,2025-07-20,17:00:00
+India,Maharashtra,Badlapur,"Katrap, Badlapur - MPCB",2025-07-20 17:00:00,19.16485,73.23409,NH3,4.0,6.0,4.0,2.0,1.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Belapur,"CBD Belapur, Belapur - MPCB",2025-07-20 17:00:00,19.0243902,73.0406721,PM10,37.0,61.0,50.0,24.0,50.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Dhule,"Deopur, Dhule - MPCB",2025-07-20 17:00:00,20.918946,74.776388,OZONE,24.0,53.0,36.0,29.0,36.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Khindipada-Bhandup West, Mumbai - IITM",2025-07-20 17:00:00,19.1653323,72.922099,SO2,1.0,9.0,4.0,8.0,5.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Khindipada-Bhandup West, Mumbai - IITM",2025-07-20 17:00:00,19.1653323,72.922099,OZONE,7.0,28.0,21.0,21.0,21.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Kurla, Mumbai - MPCB",2025-07-20 17:00:00,19.0863,72.8888,PM2.5,43.0,76.0,57.0,33.0,95.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Kurla, Mumbai - MPCB",2025-07-20 17:00:00,19.0863,72.8888,NO2,3.0,4.0,4.0,1.0,5.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Malad West, Mumbai - IITM",2025-07-20 17:00:00,19.19709,72.82204,CO,4.0,45.0,9.0,41.0,187.0, Moderate,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Mazgaon, Mumbai - IITM",2025-07-20 17:00:00,18.96702,72.84214,PM10,16.0,65.0,38.0,49.0,38.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Mazgaon, Mumbai - IITM",2025-07-20 17:00:00,18.96702,72.84214,NH3,3.0,4.0,3.0,1.0,1.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Mindspace-Malad West, Mumbai - MPCB",2025-07-20 17:00:00,19.1878657,72.8304069,PM2.5,48.0,52.0,50.0,4.0,83.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Mindspace-Malad West, Mumbai - MPCB",2025-07-20 17:00:00,19.1878657,72.8304069,SO2,8.0,8.0,8.0,0.0,10.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Jalna,"Old MIDC, Jalna - MPCB",2025-07-20 17:00:00,19.854616,75.905894,PM2.5,20.0,41.0,31.0,21.0,51.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Jalna,"Old MIDC, Jalna - MPCB",2025-07-20 17:00:00,19.854616,75.905894,NO2,37.0,50.0,44.0,13.0,55.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Kalyan,"Khadakpada, Kalyan - MPCB",2025-07-20 17:00:00,19.25292,73.142019,PM10,18.0,293.0,86.0,275.0,86.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Kalyan,"Khadakpada, Kalyan - MPCB",2025-07-20 17:00:00,19.25292,73.142019,OZONE,16.0,16.0,16.0,0.0,16.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Kalyan,"Pimpleshwar Mandir, Kalyan - MPCB",2025-07-20 17:00:00,19.192056,72.9585188,PM2.5,12.0,35.0,22.0,23.0,37.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Kalyan,"Pimpleshwar Mandir, Kalyan - MPCB",2025-07-20 17:00:00,19.192056,72.9585188,PM10,46.0,48.0,47.0,2.0,47.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Kalyan,"Pimpleshwar Mandir, Kalyan - MPCB",2025-07-20 17:00:00,19.192056,72.9585188,SO2,16.0,32.0,22.0,16.0,28.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Malegaon,"Mahesh Nagar, Malegaon - MPCB",2025-07-20 17:00:00,20.555712,74.529236,NH3,4.0,5.0,4.0,1.0,1.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Malegaon,"Mahesh Nagar, Malegaon - MPCB",2025-07-20 17:00:00,20.555712,74.529236,OZONE,36.0,51.0,41.0,15.0,41.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mira-Bhayandar,"Bhayandar West, Mira-Bhayandar - MPCB",2025-07-20 17:00:00,19.296481,72.840923,NO2,12.0,31.0,18.0,19.0,22.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mira-Bhayandar,"Bhayandar West, Mira-Bhayandar - MPCB",2025-07-20 17:00:00,19.296481,72.840923,SO2,2.0,4.0,3.0,2.0,4.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Bandra Kurla Complex, Mumbai - MPCB",2025-07-20 17:00:00,19.065931,72.862131,CO,11.0,26.0,17.0,15.0,300.0,Poor,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Navy Nagar-Colaba, Mumbai - IITM",2025-07-20 17:00:00,18.897756,72.81332,PM2.5,17.0,47.0,33.0,30.0,54.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Powai, Mumbai - MPCB",2025-07-20 17:00:00,19.1375,72.915056,OZONE,9.0,9.0,9.0,0.0,9.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Sewri, Mumbai - BMC",2025-07-20 17:00:00,19.000084,72.85673,NH3,3.0,7.0,4.0,4.0,1.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Colaba, Mumbai - MPCB",2025-07-20 17:00:00,18.91,72.82,OZONE,8.0,14.0,10.0,6.0,10.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Deonar, Mumbai - IITM",2025-07-20 17:00:00,19.04946,72.923,PM2.5,11.0,48.0,23.0,37.0,38.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Ghatkopar, Mumbai - BMC",2025-07-20 17:00:00,19.083694,72.920967,OZONE,12.0,16.0,13.0,4.0,13.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Kherwadi_Bandra East, Mumbai - MPCB",2025-07-20 17:00:00,19.0632143,72.8456324,CO,1.0,12.0,2.0,11.0,100.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Chakala-Andheri East, Mumbai - IITM",2025-07-20 17:00:00,19.11074,72.86084,OZONE,13.0,31.0,24.0,18.0,24.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Chembur, Mumbai - MPCB",2025-07-20 17:00:00,19.0364585,72.8954371,OZONE,7.0,26.0,20.0,19.0,20.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",2025-07-20 17:00:00,19.10078,72.87462,PM2.5,30.0,43.0,36.0,13.0,59.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",2025-07-20 17:00:00,19.10078,72.87462,CO,17.0,20.0,18.0,3.0,306.0,Very Poor,2025-07-20,17:00:00
+India,Maharashtra,Kolhapur,"Shivaji University, Kolhapur - MPCB",2025-07-20 17:00:00,16.6870449,74.2505872,NO2,5.0,33.0,19.0,28.0,24.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mahad,"Kamble Tarf Birwadi, Mahad - MPCB",2025-07-20 17:00:00,18.1023399,73.4783687,PM10,35.0,61.0,45.0,26.0,45.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mahad,"Kamble Tarf Birwadi, Mahad - MPCB",2025-07-20 17:00:00,18.1023399,73.4783687,NO2,21.0,26.0,23.0,5.0,29.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Colaba, Mumbai - MPCB",2025-07-20 17:00:00,18.91,72.82,PM2.5,7.0,316.0,36.0,309.0,59.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Byculla, Mumbai - BMC",2025-07-20 17:00:00,18.9767,72.838,NH3,1.0,5.0,1.0,4.0,0.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Navi Mumbai,"Tondare-Taloja, Navi Mumbai - MPCB",2025-07-20 17:00:00,19.063,73.1209,CO,40.0,72.0,46.0,32.0,475.0,Severe,2025-07-20,17:00:00
+India,Maharashtra,Pimpri-Chinchwad,"Gavalinagar, Pimpri Chinchwad - MPCB",2025-07-20 17:00:00,18.63673,73.82487,NO2,19.0,40.0,25.0,21.0,31.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Pimpri-Chinchwad,"Park Street Wakad, Pimpri Chinchwad - MPCB",2025-07-20 17:00:00,18.59051,73.77946,PM2.5,26.0,54.0,36.0,28.0,59.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Pimpri-Chinchwad,"Park Street Wakad, Pimpri Chinchwad - MPCB",2025-07-20 17:00:00,18.59051,73.77946,PM10,37.0,60.0,50.0,23.0,50.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Pimpri-Chinchwad,"Savta Mali Nagar, Pimpri-Chinchwad - IITM",2025-07-20 17:00:00,18.614767,73.799516,OZONE,10.0,22.0,21.0,12.0,21.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Pimpri-Chinchwad,"Thergaon, Pimpri Chinchwad - MPCB",2025-07-20 17:00:00,18.616318,73.765797,PM10,55.0,102.0,72.0,47.0,72.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Pimpri-Chinchwad,"Thergaon, Pimpri Chinchwad - MPCB",2025-07-20 17:00:00,18.616318,73.765797,NH3,1.0,9.0,3.0,8.0,1.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Pune,"Bhosari, Pune - IITM",2025-07-20 17:00:00,18.640051,73.848956,NO2,13.0,36.0,22.0,23.0,28.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Shivaji Nagar, Mumbai - BMC",2025-07-20 17:00:00,19.060498,72.923356,CO,6.0,90.0,21.0,84.0,324.0,Very Poor,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Siddharth Nagar-Worli, Mumbai - IITM",2025-07-20 17:00:00,19.000083,72.813993,CO,18.0,42.0,31.0,24.0,382.0,Very Poor,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Sion, Mumbai - MPCB",2025-07-20 17:00:00,19.047,72.8746,NO2,20.0,22.0,20.0,2.0,25.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Vasai West, Mumbai - MPCB",2025-07-20 17:00:00,19.3832,72.8204,PM2.5,13.0,30.0,24.0,17.0,40.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Vasai West, Mumbai - MPCB",2025-07-20 17:00:00,19.3832,72.8204,PM10,21.0,66.0,45.0,45.0,45.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Worli, Mumbai - MPCB",2025-07-20 17:00:00,18.9936162,72.8128113,PM2.5,57.0,67.0,63.0,10.0,108.0, Moderate,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Worli, Mumbai - MPCB",2025-07-20 17:00:00,18.9936162,72.8128113,PM10,57.0,85.0,69.0,28.0,69.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Nagpur,"Ambazari, Nagpur - MPCB",2025-07-20 17:00:00,21.121801,79.04952,PM10,51.0,122.0,83.0,71.0,83.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Pune,"Transport Nagar-Nigdi, Pune - IITM",2025-07-20 17:00:00,18.664282,73.763966,NO2,21.0,35.0,25.0,14.0,31.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Sangli,"Vijay Nagar, Sangli - MPCB",2025-07-20 17:00:00,16.5038,74.3623,PM2.5,24.0,61.0,41.0,37.0,68.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Sangli,"Vijay Nagar, Sangli - MPCB",2025-07-20 17:00:00,16.5038,74.3623,NH3,3.0,6.0,5.0,3.0,1.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Sangli,"Vijay Nagar, Sangli - MPCB",2025-07-20 17:00:00,16.5038,74.3623,CO,13.0,19.0,16.0,6.0,286.0,Poor,2025-07-20,17:00:00
+India,Maharashtra,Solapur,"Dnyaneshwar Nagar, Solapur - MPCB",2025-07-20 17:00:00,17.6336264,75.9132495,PM2.5,9.0,43.0,25.0,34.0,42.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Solapur,"Dnyaneshwar Nagar, Solapur - MPCB",2025-07-20 17:00:00,17.6336264,75.9132495,CO,8.0,33.0,13.0,25.0,243.0,Poor,2025-07-20,17:00:00
+India,Maharashtra,Pune,"Bhumkar Nagar, Pune - IITM",2025-07-20 17:00:00,18.60577,73.749976,NO2,6.0,12.0,9.0,6.0,11.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Pune,"Bhumkar Nagar, Pune - IITM",2025-07-20 17:00:00,18.60577,73.749976,OZONE,7.0,26.0,18.0,19.0,18.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Pune,"Katraj Dairy, Pune - MPCB",2025-07-20 17:00:00,18.45445,73.854155,PM2.5,20.0,48.0,34.0,28.0,56.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Pune,"Mhada Colony, Pune - IITM",2025-07-20 17:00:00,18.57304,73.927715,PM2.5,19.0,51.0,37.0,32.0,61.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Pune,"Panchawati_Pashan, Pune - IITM",2025-07-20 17:00:00,18.536457,73.805454,NO2,18.0,40.0,25.0,22.0,31.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Pune,"Revenue Colony-Shivajinagar, Pune - IITM",2025-07-20 17:00:00,18.530085,73.849598,NO2,10.0,24.0,18.0,14.0,22.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Thane,"Upvan Fort, Thane - MPCB",2025-07-20 17:00:00,19.222279,72.957979,SO2,1.0,13.0,3.0,12.0,4.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Ulhasnagar,"Sidhi Vinayak Nagar, Ulhasnagar - MPCB",2025-07-20 17:00:00,19.235581,73.159121,NO2,40.0,73.0,57.0,33.0,71.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Virar,"Bolinj, Virar - MPCB",2025-07-20 17:00:00,19.445821,72.7988231,NH3,1.0,2.0,2.0,1.0,0.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",2025-07-20 17:00:00,20.0073285,73.7762427,PM2.5,12.0,59.0,37.0,47.0,61.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",2025-07-20 17:00:00,20.0073285,73.7762427,PM10,9.0,64.0,38.0,55.0,38.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",2025-07-20 17:00:00,20.0073285,73.7762427,SO2,3.0,8.0,6.0,5.0,8.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Nashik,"Pandav Nagari, Nashik - MPCB",2025-07-20 17:00:00,19.9591346,73.7788008,NO2,2.0,4.0,3.0,2.0,4.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Nagpur,"Mahal, Nagpur - MPCB",2025-07-20 17:00:00,21.14472,79.107595,PM10,52.0,140.0,87.0,88.0,87.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Nagpur,"Mahal, Nagpur - MPCB",2025-07-20 17:00:00,21.14472,79.107595,NO2,9.0,70.0,22.0,61.0,28.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Nagpur,"Mahal, Nagpur - MPCB",2025-07-20 17:00:00,21.14472,79.107595,NH3,1.0,17.0,6.0,16.0,2.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Nagpur,"Ram Nagar, Nagpur - MPCB",2025-07-20 17:00:00,21.143383,79.048912,SO2,5.0,14.0,8.0,9.0,10.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Navi Mumbai,"Kopripada-Vashi, Navi Mumbai - MPCB",2025-07-20 17:00:00,19.090337,73.014232,SO2,2.0,5.0,3.0,3.0,4.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Navi Mumbai,"Mahape, Navi Mumbai - MPCB",2025-07-20 17:00:00,19.1135051,73.008978,PM10,32.0,69.0,52.0,37.0,52.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Navi Mumbai,"Mahape, Navi Mumbai - MPCB",2025-07-20 17:00:00,19.1135051,73.008978,OZONE,16.0,38.0,17.0,22.0,17.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Aurangabad,"MIDC Chilkalthana, Aurangabad - MPCB",2025-07-20 17:00:00,19.87562,75.38731,NH3,2.0,3.0,2.0,1.0,0.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Aurangabad,"MIDC Chilkalthana, Aurangabad - MPCB",2025-07-20 17:00:00,19.87562,75.38731,OZONE,17.0,81.0,61.0,64.0,61.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",2025-07-20 17:00:00,19.8389439,75.244448,PM10,46.0,55.0,50.0,9.0,50.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",2025-07-20 17:00:00,19.8389439,75.244448,SO2,17.0,20.0,18.0,3.0,22.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Aurangabad,"Rachnakar Colony, Aurangabad - MPCB",2025-07-20 17:00:00,19.863756,75.321188,PM2.5,27.0,66.0,41.0,39.0,68.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Aurangabad,"Rachnakar Colony, Aurangabad - MPCB",2025-07-20 17:00:00,19.863756,75.321188,NH3,2.0,5.0,4.0,3.0,1.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Aurangabad,"Rachnakar Colony, Aurangabad - MPCB",2025-07-20 17:00:00,19.863756,75.321188,CO,8.0,13.0,10.0,5.0,200.0, Moderate,2025-07-20,17:00:00
+India,Maharashtra,Badlapur,"Katrap, Badlapur - MPCB",2025-07-20 17:00:00,19.16485,73.23409,PM10,44.0,88.0,58.0,44.0,58.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Badlapur,"Katrap, Badlapur - MPCB",2025-07-20 17:00:00,19.16485,73.23409,NO2,18.0,70.0,42.0,52.0,52.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Badlapur,"Katrap, Badlapur - MPCB",2025-07-20 17:00:00,19.16485,73.23409,OZONE,15.0,58.0,32.0,43.0,32.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Akola,"Ramdaspeth, Akola - MPCB",2025-07-20 17:00:00,20.719516,77.000253,NH3,6.0,7.0,6.0,1.0,2.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Amravati,"Shivneri Colony, Amravati - MPCB",2025-07-20 17:00:00,20.9402359,77.7895248,OZONE,2.0,49.0,36.0,47.0,36.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Belapur,"CBD Belapur, Belapur - MPCB",2025-07-20 17:00:00,19.0243902,73.0406721,NH3,1.0,5.0,2.0,4.0,0.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Bhiwandi,"Gokul Nagar, Bhiwandi - MPCB",2025-07-20 17:00:00,19.309073,73.057223,PM10,44.0,198.0,78.0,154.0,78.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Bhiwandi,"Gokul Nagar, Bhiwandi - MPCB",2025-07-20 17:00:00,19.309073,73.057223,CO,32.0,48.0,38.0,16.0,425.0,Severe,2025-07-20,17:00:00
+India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",2025-07-20 17:00:00,19.9775302,79.2337086,OZONE,3.0,54.0,33.0,51.0,33.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Dhule,"Deopur, Dhule - MPCB",2025-07-20 17:00:00,20.918946,74.776388,NH3,4.0,5.0,5.0,1.0,1.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Jalgaon,"Prabhat Colony, Jalgaon - MPCB",2025-07-20 17:00:00,21.001264,75.565602,OZONE,19.0,32.0,24.0,13.0,24.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mahad,"Kamble Tarf Birwadi, Mahad - MPCB",2025-07-20 17:00:00,18.1023399,73.4783687,CO,39.0,42.0,40.0,3.0,438.0,Severe,2025-07-20,17:00:00
+India,Maharashtra,Mahad,"Kamble Tarf Birwadi, Mahad - MPCB",2025-07-20 17:00:00,18.1023399,73.4783687,OZONE,18.0,50.0,33.0,32.0,33.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Malegaon,"Mahesh Nagar, Malegaon - MPCB",2025-07-20 17:00:00,20.555712,74.529236,PM2.5,44.0,61.0,51.0,17.0,85.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Mira-Bhayandar,"Bhayandar West, Mira-Bhayandar - MPCB",2025-07-20 17:00:00,19.296481,72.840923,PM10,25.0,58.0,44.0,33.0,44.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mira-Bhayandar,"Bhayandar West, Mira-Bhayandar - MPCB",2025-07-20 17:00:00,19.296481,72.840923,NH3,1.0,2.0,2.0,1.0,0.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mira-Bhayandar,"Bhayandar West, Mira-Bhayandar - MPCB",2025-07-20 17:00:00,19.296481,72.840923,CO,5.0,13.0,5.0,8.0,137.0, Moderate,2025-07-20,17:00:00
+India,Maharashtra,Mira-Bhayandar,"Bhayandar West, Mira-Bhayandar - MPCB",2025-07-20 17:00:00,19.296481,72.840923,OZONE,6.0,38.0,31.0,32.0,31.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Bandra Kurla Complex, Mumbai - MPCB",2025-07-20 17:00:00,19.065931,72.862131,PM2.5,21.0,49.0,38.0,28.0,63.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Bandra Kurla Complex, Mumbai - MPCB",2025-07-20 17:00:00,19.065931,72.862131,NO2,12.0,23.0,17.0,11.0,21.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Kalyan,"Pimpleshwar Mandir, Kalyan - MPCB",2025-07-20 17:00:00,19.192056,72.9585188,NH3,1.0,2.0,1.0,1.0,0.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Kalyan,"Pimpleshwar Mandir, Kalyan - MPCB",2025-07-20 17:00:00,19.192056,72.9585188,OZONE,14.0,19.0,16.0,5.0,16.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Kolhapur,"Shivaji University, Kolhapur - MPCB",2025-07-20 17:00:00,16.6870449,74.2505872,PM2.5,3.0,23.0,11.0,20.0,18.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Kolhapur,"Sinchan Bhavan, Kolhapur - MPCB",2025-07-20 17:00:00,16.7143745,74.2426398,NO2,1.0,5.0,2.0,4.0,2.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Kolhapur,"Sinchan Bhavan, Kolhapur - MPCB",2025-07-20 17:00:00,16.7143745,74.2426398,NH3,5.0,8.0,6.0,3.0,2.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Latur,"Sawe Wadi, Latur - MPCB",2025-07-20 17:00:00,18.39963,76.57452,PM2.5,10.0,51.0,30.0,41.0,50.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Latur,"Sawe Wadi, Latur - MPCB",2025-07-20 17:00:00,18.39963,76.57452,OZONE,16.0,48.0,30.0,32.0,30.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Mindspace-Malad West, Mumbai - MPCB",2025-07-20 17:00:00,19.1878657,72.8304069,NO2,15.0,16.0,15.0,1.0,19.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Mindspace-Malad West, Mumbai - MPCB",2025-07-20 17:00:00,19.1878657,72.8304069,CO,30.0,30.0,30.0,0.0,377.0,Very Poor,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Mindspace-Malad West, Mumbai - MPCB",2025-07-20 17:00:00,19.1878657,72.8304069,OZONE,49.0,51.0,50.0,2.0,50.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Navy Nagar-Colaba, Mumbai - IITM",2025-07-20 17:00:00,18.897756,72.81332,NO2,11.0,19.0,14.0,8.0,18.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Powai, Mumbai - MPCB",2025-07-20 17:00:00,19.1375,72.915056,NH3,2.0,20.0,3.0,18.0,1.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Chakala-Andheri East, Mumbai - IITM",2025-07-20 17:00:00,19.11074,72.86084,NH3,5.0,6.0,5.0,1.0,1.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Chembur, Mumbai - MPCB",2025-07-20 17:00:00,19.0364585,72.8954371,PM2.5,11.0,28.0,20.0,17.0,33.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Chembur, Mumbai - MPCB",2025-07-20 17:00:00,19.0364585,72.8954371,SO2,6.0,9.0,7.0,3.0,9.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",2025-07-20 17:00:00,19.10078,72.87462,PM10,57.0,76.0,66.0,19.0,66.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Ghatkopar, Mumbai - BMC",2025-07-20 17:00:00,19.083694,72.920967,NO2,12.0,25.0,18.0,13.0,22.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Ghatkopar, Mumbai - BMC",2025-07-20 17:00:00,19.083694,72.920967,CO,6.0,12.0,7.0,6.0,162.0, Moderate,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Kandivali East, Mumbai - MPCB",2025-07-20 17:00:00,19.2058,72.8682,PM10,34.0,86.0,57.0,52.0,57.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Kandivali East, Mumbai - MPCB",2025-07-20 17:00:00,19.2058,72.8682,NO2,7.0,12.0,8.0,5.0,10.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Borivali East, Mumbai - IITM",2025-07-20 17:00:00,19.23241,72.86895,PM2.5,12.0,44.0,29.0,32.0,48.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Byculla, Mumbai - BMC",2025-07-20 17:00:00,18.9767,72.838,NO2,8.0,25.0,13.0,17.0,16.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Chakala-Andheri East, Mumbai - IITM",2025-07-20 17:00:00,19.11074,72.86084,PM2.5,13.0,40.0,24.0,27.0,40.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Kherwadi_Bandra East, Mumbai - MPCB",2025-07-20 17:00:00,19.0632143,72.8456324,OZONE,2.0,19.0,3.0,17.0,3.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Malad West, Mumbai - IITM",2025-07-20 17:00:00,19.19709,72.82204,PM2.5,5.0,50.0,21.0,45.0,35.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Mazgaon, Mumbai - IITM",2025-07-20 17:00:00,18.96702,72.84214,OZONE,7.0,18.0,14.0,11.0,14.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Colaba, Mumbai - MPCB",2025-07-20 17:00:00,18.91,72.82,PM10,28.0,128.0,69.0,100.0,69.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Kalyan,"Khadakpada, Kalyan - MPCB",2025-07-20 17:00:00,19.25292,73.142019,NH3,1.0,2.0,1.0,1.0,0.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Navi Mumbai,"Tondare-Taloja, Navi Mumbai - MPCB",2025-07-20 17:00:00,19.063,73.1209,PM2.5,20.0,41.0,30.0,21.0,50.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Navi Mumbai,"Tondare-Taloja, Navi Mumbai - MPCB",2025-07-20 17:00:00,19.063,73.1209,PM10,20.0,56.0,45.0,36.0,45.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Navi Mumbai,"Tondare-Taloja, Navi Mumbai - MPCB",2025-07-20 17:00:00,19.063,73.1209,NO2,21.0,117.0,48.0,96.0,60.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Navi Mumbai,"Tondare-Taloja, Navi Mumbai - MPCB",2025-07-20 17:00:00,19.063,73.1209,OZONE,1.0,20.0,7.0,19.0,7.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Pimpri-Chinchwad,"Gavalinagar, Pimpri Chinchwad - MPCB",2025-07-20 17:00:00,18.63673,73.82487,PM2.5,26.0,47.0,36.0,21.0,59.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Pimpri-Chinchwad,"Gavalinagar, Pimpri Chinchwad - MPCB",2025-07-20 17:00:00,18.63673,73.82487,PM10,23.0,46.0,37.0,23.0,37.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Pimpri-Chinchwad,"Park Street Wakad, Pimpri Chinchwad - MPCB",2025-07-20 17:00:00,18.59051,73.77946,SO2,1.0,2.0,1.0,1.0,1.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Pimpri-Chinchwad,"Park Street Wakad, Pimpri Chinchwad - MPCB",2025-07-20 17:00:00,18.59051,73.77946,CO,7.0,36.0,9.0,29.0,187.0, Moderate,2025-07-20,17:00:00
+India,Maharashtra,Pimpri-Chinchwad,"Savta Mali Nagar, Pimpri-Chinchwad - IITM",2025-07-20 17:00:00,18.614767,73.799516,PM2.5,16.0,45.0,28.0,29.0,47.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Pimpri-Chinchwad,"Thergaon, Pimpri Chinchwad - MPCB",2025-07-20 17:00:00,18.616318,73.765797,PM2.5,20.0,97.0,42.0,77.0,70.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Pimpri-Chinchwad,"Thergaon, Pimpri Chinchwad - MPCB",2025-07-20 17:00:00,18.616318,73.765797,NO2,10.0,25.0,17.0,15.0,21.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Pimpri-Chinchwad,"Thergaon, Pimpri Chinchwad - MPCB",2025-07-20 17:00:00,18.616318,73.765797,CO,4.0,58.0,26.0,54.0,353.0,Very Poor,2025-07-20,17:00:00
+India,Maharashtra,Solapur,"Ratandeep Housing Society, Solapur - MPCB",2025-07-20 17:00:00,17.65439,75.90649,CO,9.0,58.0,18.0,49.0,306.0,Very Poor,2025-07-20,17:00:00
+India,Maharashtra,Thane,"Kasarvadavali, Thane - MPCB",2025-07-20 17:00:00,19.26777,72.97182,PM2.5,12.0,30.0,22.0,18.0,37.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Thane,"Kasarvadavali, Thane - MPCB",2025-07-20 17:00:00,19.26777,72.97182,PM10,27.0,73.0,50.0,46.0,50.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Thane,"Kasarvadavali, Thane - MPCB",2025-07-20 17:00:00,19.26777,72.97182,NH3,3.0,5.0,4.0,2.0,1.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Thane,"Kasarvadavali, Thane - MPCB",2025-07-20 17:00:00,19.26777,72.97182,SO2,2.0,3.0,3.0,1.0,4.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Thane,"Upvan Fort, Thane - MPCB",2025-07-20 17:00:00,19.222279,72.957979,PM10,26.0,52.0,38.0,26.0,38.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Thane,"Upvan Fort, Thane - MPCB",2025-07-20 17:00:00,19.222279,72.957979,NO2,3.0,16.0,8.0,13.0,10.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Thane,"Upvan Fort, Thane - MPCB",2025-07-20 17:00:00,19.222279,72.957979,OZONE,1.0,22.0,14.0,21.0,14.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Ulhasnagar,"Sidhi Vinayak Nagar, Ulhasnagar - MPCB",2025-07-20 17:00:00,19.235581,73.159121,PM2.5,24.0,76.0,40.0,52.0,66.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Ulhasnagar,"Sidhi Vinayak Nagar, Ulhasnagar - MPCB",2025-07-20 17:00:00,19.235581,73.159121,NH3,3.0,6.0,4.0,3.0,1.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Ulhasnagar,"Sidhi Vinayak Nagar, Ulhasnagar - MPCB",2025-07-20 17:00:00,19.235581,73.159121,SO2,13.0,23.0,17.0,10.0,21.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Virar,"Bolinj, Virar - MPCB",2025-07-20 17:00:00,19.445821,72.7988231,NO2,5.0,28.0,17.0,23.0,21.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Shivaji Nagar, Mumbai - BMC",2025-07-20 17:00:00,19.060498,72.923356,PM10,31.0,85.0,60.0,54.0,60.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Shivaji Nagar, Mumbai - BMC",2025-07-20 17:00:00,19.060498,72.923356,NO2,6.0,7.0,7.0,1.0,9.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Shivaji Nagar, Mumbai - BMC",2025-07-20 17:00:00,19.060498,72.923356,SO2,2.0,4.0,2.0,2.0,2.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Siddharth Nagar-Worli, Mumbai - IITM",2025-07-20 17:00:00,19.000083,72.813993,PM10,10.0,62.0,36.0,52.0,36.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Sion, Mumbai - MPCB",2025-07-20 17:00:00,19.047,72.8746,SO2,9.0,9.0,9.0,0.0,11.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Vasai West, Mumbai - MPCB",2025-07-20 17:00:00,19.3832,72.8204,NO2,16.0,18.0,16.0,2.0,20.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Vasai West, Mumbai - MPCB",2025-07-20 17:00:00,19.3832,72.8204,NH3,2.0,3.0,2.0,1.0,0.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Vasai West, Mumbai - MPCB",2025-07-20 17:00:00,19.3832,72.8204,SO2,81.0,105.0,93.0,24.0,105.0, Moderate,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Worli, Mumbai - MPCB",2025-07-20 17:00:00,18.9936162,72.8128113,NO2,6.0,23.0,12.0,17.0,15.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Worli, Mumbai - MPCB",2025-07-20 17:00:00,18.9936162,72.8128113,NH3,1.0,4.0,2.0,3.0,0.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Worli, Mumbai - MPCB",2025-07-20 17:00:00,18.9936162,72.8128113,SO2,19.0,30.0,23.0,11.0,29.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Nanded,"Sneh Nagar, Nanded - MPCB",2025-07-20 17:00:00,19.173852,77.296291,NH3,4.0,5.0,4.0,1.0,1.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Nashik,"Hirawadi, Nashik - MPCB",2025-07-20 17:00:00,20.021503,73.813844,PM2.5,21.0,52.0,37.0,31.0,61.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Nashik,"Hirawadi, Nashik - MPCB",2025-07-20 17:00:00,20.021503,73.813844,CO,16.0,24.0,21.0,8.0,324.0,Very Poor,2025-07-20,17:00:00
+India,Maharashtra,Nashik,"Hirawadi, Nashik - MPCB",2025-07-20 17:00:00,20.021503,73.813844,OZONE,6.0,28.0,25.0,22.0,25.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Nashik,"MIDC Ambad, Nashik - MPCB",2025-07-20 17:00:00,19.95022,73.73148,SO2,3.0,7.0,4.0,4.0,5.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Nashik,"MIDC Ambad, Nashik - MPCB",2025-07-20 17:00:00,19.95022,73.73148,OZONE,16.0,26.0,21.0,10.0,21.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Nashik,"Pandav Nagari, Nashik - MPCB",2025-07-20 17:00:00,19.9591346,73.7788008,NH3,1.0,2.0,1.0,1.0,0.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Nashik,"Pandav Nagari, Nashik - MPCB",2025-07-20 17:00:00,19.9591346,73.7788008,SO2,1.0,6.0,3.0,5.0,4.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Navi Mumbai,"Kopripada-Vashi, Navi Mumbai - MPCB",2025-07-20 17:00:00,19.090337,73.014232,PM10,7.0,36.0,22.0,29.0,22.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Navi Mumbai,"Kopripada-Vashi, Navi Mumbai - MPCB",2025-07-20 17:00:00,19.090337,73.014232,NO2,8.0,21.0,14.0,13.0,18.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Navi Mumbai,"Sanpada, Navi Mumbai - MPCB",2025-07-20 17:00:00,19.0575752,73.0151367,PM10,22.0,500.0,126.0,478.0,118.0, Moderate,2025-07-20,17:00:00
+India,Maharashtra,Navi Mumbai,"Sanpada, Navi Mumbai - MPCB",2025-07-20 17:00:00,19.0575752,73.0151367,CO,20.0,88.0,35.0,68.0,407.0,Severe,2025-07-20,17:00:00
+India,Maharashtra,Pune,"Bhosari, Pune - IITM",2025-07-20 17:00:00,18.640051,73.848956,PM2.5,17.0,50.0,31.0,33.0,51.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Pune,"Bhosari, Pune - IITM",2025-07-20 17:00:00,18.640051,73.848956,OZONE,1.0,13.0,10.0,12.0,10.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Pune,"Katraj Dairy, Pune - MPCB",2025-07-20 17:00:00,18.45445,73.854155,NO2,1.0,8.0,4.0,7.0,5.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Pune,"Katraj Dairy, Pune - MPCB",2025-07-20 17:00:00,18.45445,73.854155,NH3,1.0,2.0,2.0,1.0,0.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Pune,"Mhada Colony, Pune - IITM",2025-07-20 17:00:00,18.57304,73.927715,PM10,51.0,85.0,74.0,34.0,74.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Worli, Mumbai - MPCB",2025-07-20 17:00:00,18.9936162,72.8128113,CO,8.0,32.0,16.0,24.0,286.0,Poor,2025-07-20,17:00:00
+India,Maharashtra,Nagpur,"Mahal, Nagpur - MPCB",2025-07-20 17:00:00,21.14472,79.107595,PM2.5,39.0,139.0,70.0,100.0,132.0, Moderate,2025-07-20,17:00:00
+India,Maharashtra,Nagpur,"Mahal, Nagpur - MPCB",2025-07-20 17:00:00,21.14472,79.107595,CO,21.0,143.0,28.0,122.0,365.0,Very Poor,2025-07-20,17:00:00
+India,Maharashtra,Nagpur,"Ram Nagar, Nagpur - MPCB",2025-07-20 17:00:00,21.143383,79.048912,NH3,3.0,7.0,4.0,4.0,1.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Pune,"Revenue Colony-Shivajinagar, Pune - IITM",2025-07-20 17:00:00,18.530085,73.849598,SO2,6.0,15.0,11.0,9.0,14.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Pune,"Revenue Colony-Shivajinagar, Pune - IITM",2025-07-20 17:00:00,18.530085,73.849598,CO,16.0,86.0,47.0,70.0,481.0,Severe,2025-07-20,17:00:00
+India,Maharashtra,Sangli,"Vijay Nagar, Sangli - MPCB",2025-07-20 17:00:00,16.5038,74.3623,SO2,7.0,10.0,9.0,3.0,11.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Belapur,"CBD Belapur, Belapur - MPCB",2025-07-20 17:00:00,19.0243902,73.0406721,OZONE,29.0,31.0,30.0,2.0,30.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Boisar,"Khaira, Boisar - MPCB",2025-07-20 17:00:00,19.786089,72.757971,PM10,29.0,64.0,44.0,35.0,44.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Boisar,"Khaira, Boisar - MPCB",2025-07-20 17:00:00,19.786089,72.757971,CO,10.0,18.0,16.0,8.0,286.0,Poor,2025-07-20,17:00:00
+India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",2025-07-20 17:00:00,19.9775302,79.2337086,SO2,1.0,7.0,4.0,6.0,5.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Aurangabad,"MIDC Chilkalthana, Aurangabad - MPCB",2025-07-20 17:00:00,19.87562,75.38731,SO2,1.0,2.0,1.0,1.0,1.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Badlapur,"Katrap, Badlapur - MPCB",2025-07-20 17:00:00,19.16485,73.23409,SO2,5.0,23.0,14.0,18.0,18.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Belapur,"CBD Belapur, Belapur - MPCB",2025-07-20 17:00:00,19.0243902,73.0406721,PM2.5,30.0,43.0,33.0,13.0,54.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Dhule,"Deopur, Dhule - MPCB",2025-07-20 17:00:00,20.918946,74.776388,PM10,53.0,83.0,64.0,30.0,64.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Dhule,"Deopur, Dhule - MPCB",2025-07-20 17:00:00,20.918946,74.776388,SO2,1.0,10.0,5.0,9.0,6.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Jalgaon,"Prabhat Colony, Jalgaon - MPCB",2025-07-20 17:00:00,21.001264,75.565602,NO2,7.0,20.0,13.0,13.0,16.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Jalgaon,"Prabhat Colony, Jalgaon - MPCB",2025-07-20 17:00:00,21.001264,75.565602,NH3,2.0,3.0,2.0,1.0,0.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Akola,"Ramdaspeth, Akola - MPCB",2025-07-20 17:00:00,20.719516,77.000253,PM2.5,16.0,65.0,39.0,49.0,65.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Amravati,"Shri Shivaji Science College, Amravati - MPCB",2025-07-20 17:00:00,20.939198,77.765701,NH3,1.0,3.0,1.0,2.0,0.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Amravati,"Shri Shivaji Science College, Amravati - MPCB",2025-07-20 17:00:00,20.939198,77.765701,CO,13.0,98.0,15.0,85.0,271.0,Poor,2025-07-20,17:00:00
+India,Maharashtra,Nagpur,"Ambazari, Nagpur - MPCB",2025-07-20 17:00:00,21.121801,79.04952,NH3,1.0,9.0,3.0,8.0,1.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Nagpur,"Ambazari, Nagpur - MPCB",2025-07-20 17:00:00,21.121801,79.04952,SO2,3.0,6.0,4.0,3.0,5.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Nagpur,"Ambazari, Nagpur - MPCB",2025-07-20 17:00:00,21.121801,79.04952,OZONE,2.0,26.0,19.0,24.0,19.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Nagpur,"Mahal, Nagpur - MPCB",2025-07-20 17:00:00,21.14472,79.107595,SO2,3.0,70.0,25.0,67.0,31.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Nagpur,"Mahal, Nagpur - MPCB",2025-07-20 17:00:00,21.14472,79.107595,OZONE,1.0,35.0,22.0,34.0,22.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB",2025-07-20 17:00:00,21.152875,79.0517531,NO2,3.0,33.0,13.0,30.0,16.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB",2025-07-20 17:00:00,21.152875,79.0517531,OZONE,1.0,10.0,6.0,9.0,6.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Nagpur,"Ram Nagar, Nagpur - MPCB",2025-07-20 17:00:00,21.143383,79.048912,NO2,7.0,46.0,15.0,39.0,19.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Nagpur,"Ram Nagar, Nagpur - MPCB",2025-07-20 17:00:00,21.143383,79.048912,CO,10.0,52.0,11.0,42.0,214.0,Poor,2025-07-20,17:00:00
+India,Maharashtra,Nanded,"Sneh Nagar, Nanded - MPCB",2025-07-20 17:00:00,19.173852,77.296291,PM2.5,30.0,64.0,46.0,34.0,76.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Nanded,"Sneh Nagar, Nanded - MPCB",2025-07-20 17:00:00,19.173852,77.296291,PM10,42.0,108.0,73.0,66.0,73.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Nanded,"Sneh Nagar, Nanded - MPCB",2025-07-20 17:00:00,19.173852,77.296291,NO2,6.0,40.0,13.0,34.0,16.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Khindipada-Bhandup West, Mumbai - IITM",2025-07-20 17:00:00,19.1653323,72.922099,NH3,2.0,3.0,2.0,1.0,0.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Khindipada-Bhandup West, Mumbai - IITM",2025-07-20 17:00:00,19.1653323,72.922099,CO,14.0,18.0,17.0,4.0,300.0,Poor,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Kurla, Mumbai - MPCB",2025-07-20 17:00:00,19.0863,72.8888,PM10,48.0,98.0,69.0,50.0,69.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Kurla, Mumbai - MPCB",2025-07-20 17:00:00,19.0863,72.8888,NH3,1.0,1.0,1.0,0.0,0.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Kurla, Mumbai - MPCB",2025-07-20 17:00:00,19.0863,72.8888,SO2,36.0,37.0,37.0,1.0,46.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Kurla, Mumbai - MPCB",2025-07-20 17:00:00,19.0863,72.8888,CO,2.0,8.0,5.0,6.0,137.0, Moderate,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Malad West, Mumbai - IITM",2025-07-20 17:00:00,19.19709,72.82204,PM10,18.0,101.0,48.0,83.0,48.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Mazgaon, Mumbai - IITM",2025-07-20 17:00:00,18.96702,72.84214,PM2.5,8.0,46.0,23.0,38.0,38.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Mazgaon, Mumbai - IITM",2025-07-20 17:00:00,18.96702,72.84214,NO2,11.0,34.0,20.0,23.0,25.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Mindspace-Malad West, Mumbai - MPCB",2025-07-20 17:00:00,19.1878657,72.8304069,PM10,49.0,53.0,50.0,4.0,50.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Mulund West, Mumbai - MPCB",2025-07-20 17:00:00,19.175,72.9419,PM2.5,25.0,55.0,35.0,30.0,58.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Navy Nagar-Colaba, Mumbai - IITM",2025-07-20 17:00:00,18.897756,72.81332,PM10,31.0,94.0,67.0,63.0,67.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Powai, Mumbai - MPCB",2025-07-20 17:00:00,19.1375,72.915056,NO2,3.0,8.0,7.0,5.0,9.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Sewri, Mumbai - BMC",2025-07-20 17:00:00,19.000084,72.85673,PM2.5,9.0,24.0,16.0,15.0,27.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Sewri, Mumbai - BMC",2025-07-20 17:00:00,19.000084,72.85673,CO,12.0,20.0,13.0,8.0,243.0,Poor,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Sewri, Mumbai - BMC",2025-07-20 17:00:00,19.000084,72.85673,OZONE,2.0,12.0,11.0,10.0,11.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Shivaji Nagar, Mumbai - BMC",2025-07-20 17:00:00,19.060498,72.923356,PM2.5,14.0,49.0,29.0,35.0,48.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Deonar, Mumbai - IITM",2025-07-20 17:00:00,19.04946,72.923,NO2,5.0,20.0,11.0,15.0,14.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Deonar, Mumbai - IITM",2025-07-20 17:00:00,19.04946,72.923,NH3,5.0,6.0,6.0,1.0,2.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Deonar, Mumbai - IITM",2025-07-20 17:00:00,19.04946,72.923,SO2,2.0,7.0,5.0,5.0,6.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Deonar, Mumbai - IITM",2025-07-20 17:00:00,19.04946,72.923,OZONE,1.0,7.0,3.0,6.0,3.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Ghatkopar, Mumbai - BMC",2025-07-20 17:00:00,19.083694,72.920967,NH3,2.0,2.0,2.0,0.0,0.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Kandivali East, Mumbai - MPCB",2025-07-20 17:00:00,19.2058,72.8682,CO,12.0,18.0,18.0,6.0,306.0,Very Poor,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Kherwadi_Bandra East, Mumbai - MPCB",2025-07-20 17:00:00,19.0632143,72.8456324,PM10,27.0,61.0,47.0,34.0,47.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Malegaon,"Mahesh Nagar, Malegaon - MPCB",2025-07-20 17:00:00,20.555712,74.529236,PM10,61.0,85.0,72.0,24.0,72.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Malegaon,"Mahesh Nagar, Malegaon - MPCB",2025-07-20 17:00:00,20.555712,74.529236,NO2,7.0,22.0,12.0,15.0,15.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Malegaon,"Mahesh Nagar, Malegaon - MPCB",2025-07-20 17:00:00,20.555712,74.529236,CO,4.0,44.0,11.0,40.0,214.0,Poor,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Bandra Kurla Complex, Mumbai - IITM",2025-07-20 17:00:00,19.053536,72.84643,PM10,44.0,113.0,80.0,69.0,80.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Bandra Kurla Complex, Mumbai - IITM",2025-07-20 17:00:00,19.053536,72.84643,SO2,3.0,6.0,4.0,3.0,5.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Bandra Kurla Complex, Mumbai - IITM",2025-07-20 17:00:00,19.053536,72.84643,CO,2.0,47.0,24.0,45.0,341.0,Very Poor,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Bandra Kurla Complex, Mumbai - IITM",2025-07-20 17:00:00,19.053536,72.84643,OZONE,2.0,10.0,7.0,8.0,7.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Bandra Kurla Complex, Mumbai - MPCB",2025-07-20 17:00:00,19.065931,72.862131,SO2,1.0,2.0,1.0,1.0,1.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Chakala-Andheri East, Mumbai - IITM",2025-07-20 17:00:00,19.11074,72.86084,PM10,45.0,105.0,74.0,60.0,74.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Chakala-Andheri East, Mumbai - IITM",2025-07-20 17:00:00,19.11074,72.86084,SO2,1.0,18.0,5.0,17.0,6.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",2025-07-20 17:00:00,19.10078,72.87462,NO2,22.0,24.0,23.0,2.0,29.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",2025-07-20 17:00:00,19.10078,72.87462,SO2,20.0,21.0,20.0,1.0,25.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Siddharth Nagar-Worli, Mumbai - IITM",2025-07-20 17:00:00,19.000083,72.813993,PM2.5,15.0,37.0,24.0,22.0,40.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Siddharth Nagar-Worli, Mumbai - IITM",2025-07-20 17:00:00,19.000083,72.813993,NO2,40.0,47.0,44.0,7.0,55.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Siddharth Nagar-Worli, Mumbai - IITM",2025-07-20 17:00:00,19.000083,72.813993,OZONE,21.0,31.0,27.0,10.0,27.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Nagpur,"Ambazari, Nagpur - MPCB",2025-07-20 17:00:00,21.121801,79.04952,PM2.5,4.0,64.0,12.0,60.0,20.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Kolhapur,"Shivaji University, Kolhapur - MPCB",2025-07-20 17:00:00,16.6870449,74.2505872,PM10,39.0,52.0,44.0,13.0,44.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Kolhapur,"Shivaji University, Kolhapur - MPCB",2025-07-20 17:00:00,16.6870449,74.2505872,CO,3.0,17.0,12.0,14.0,228.0,Poor,2025-07-20,17:00:00
+India,Maharashtra,Kolhapur,"Sinchan Bhavan, Kolhapur - MPCB",2025-07-20 17:00:00,16.7143745,74.2426398,PM2.5,26.0,60.0,40.0,34.0,66.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Jalna,"Old MIDC, Jalna - MPCB",2025-07-20 17:00:00,19.854616,75.905894,PM10,34.0,75.0,58.0,41.0,58.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Jalna,"Old MIDC, Jalna - MPCB",2025-07-20 17:00:00,19.854616,75.905894,SO2,3.0,3.0,3.0,0.0,4.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Jalna,"Old MIDC, Jalna - MPCB",2025-07-20 17:00:00,19.854616,75.905894,OZONE,36.0,104.0,80.0,68.0,80.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Pune,"Dhankawadi, Pune - IITM",2025-07-20 17:00:00,18.459883,73.852193,PM2.5,26.0,54.0,38.0,28.0,63.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Pune,"Dhankawadi, Pune - IITM",2025-07-20 17:00:00,18.459883,73.852193,PM10,17.0,52.0,32.0,35.0,32.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Pune,"Katraj Dairy, Pune - MPCB",2025-07-20 17:00:00,18.45445,73.854155,PM10,28.0,34.0,31.0,6.0,31.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Pune,"Katraj Dairy, Pune - MPCB",2025-07-20 17:00:00,18.45445,73.854155,OZONE,27.0,39.0,37.0,12.0,37.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Pune,"Mhada Colony, Pune - IITM",2025-07-20 17:00:00,18.57304,73.927715,NO2,31.0,73.0,52.0,42.0,65.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Pune,"Panchawati_Pashan, Pune - IITM",2025-07-20 17:00:00,18.536457,73.805454,PM10,37.0,62.0,47.0,25.0,47.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Pune,"Revenue Colony-Shivajinagar, Pune - IITM",2025-07-20 17:00:00,18.530085,73.849598,PM2.5,32.0,71.0,49.0,39.0,81.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Pune,"Revenue Colony-Shivajinagar, Pune - IITM",2025-07-20 17:00:00,18.530085,73.849598,PM10,32.0,74.0,52.0,42.0,52.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Pune,"Savitribai Phule Pune University, Pune - MPCB",2025-07-20 17:00:00,18.547056,73.826908,CO,8.0,20.0,10.0,12.0,200.0, Moderate,2025-07-20,17:00:00
+India,Maharashtra,Pune,"Savitribai Phule Pune University, Pune - MPCB",2025-07-20 17:00:00,18.547056,73.826908,OZONE,1.0,13.0,11.0,12.0,11.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Pune,"Transport Nagar-Nigdi, Pune - IITM",2025-07-20 17:00:00,18.664282,73.763966,OZONE,6.0,34.0,28.0,28.0,28.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Sangli,"Vijay Nagar, Sangli - MPCB",2025-07-20 17:00:00,16.5038,74.3623,PM10,18.0,56.0,36.0,38.0,36.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Sangli,"Vijay Nagar, Sangli - MPCB",2025-07-20 17:00:00,16.5038,74.3623,NO2,3.0,12.0,6.0,9.0,8.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Solapur,"Dnyaneshwar Nagar, Solapur - MPCB",2025-07-20 17:00:00,17.6336264,75.9132495,NO2,2.0,21.0,8.0,19.0,10.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Solapur,"Dnyaneshwar Nagar, Solapur - MPCB",2025-07-20 17:00:00,17.6336264,75.9132495,SO2,2.0,2.0,2.0,0.0,2.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Pimpri-Chinchwad,"Gavalinagar, Pimpri Chinchwad - MPCB",2025-07-20 17:00:00,18.63673,73.82487,NH3,3.0,3.0,3.0,0.0,1.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Pimpri-Chinchwad,"Gavalinagar, Pimpri Chinchwad - MPCB",2025-07-20 17:00:00,18.63673,73.82487,CO,4.0,25.0,10.0,21.0,200.0, Moderate,2025-07-20,17:00:00
+India,Maharashtra,Pimpri-Chinchwad,"Park Street Wakad, Pimpri Chinchwad - MPCB",2025-07-20 17:00:00,18.59051,73.77946,NO2,9.0,27.0,15.0,18.0,19.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Pimpri-Chinchwad,"Park Street Wakad, Pimpri Chinchwad - MPCB",2025-07-20 17:00:00,18.59051,73.77946,NH3,2.0,4.0,2.0,2.0,0.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Pimpri-Chinchwad,"Park Street Wakad, Pimpri Chinchwad - MPCB",2025-07-20 17:00:00,18.59051,73.77946,OZONE,1.0,21.0,19.0,20.0,19.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Pimpri-Chinchwad,"Savta Mali Nagar, Pimpri-Chinchwad - IITM",2025-07-20 17:00:00,18.614767,73.799516,CO,1.0,101.0,42.0,100.0,450.0,Severe,2025-07-20,17:00:00
+India,Maharashtra,Pune,"Bhosari, Pune - IITM",2025-07-20 17:00:00,18.640051,73.848956,PM10,23.0,75.0,52.0,52.0,52.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Thane,"Upvan Fort, Thane - MPCB",2025-07-20 17:00:00,19.222279,72.957979,PM2.5,9.0,40.0,23.0,31.0,38.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Ulhasnagar,"Sidhi Vinayak Nagar, Ulhasnagar - MPCB",2025-07-20 17:00:00,19.235581,73.159121,OZONE,15.0,49.0,39.0,34.0,39.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Virar,"Bolinj, Virar - MPCB",2025-07-20 17:00:00,19.445821,72.7988231,PM2.5,16.0,37.0,25.0,21.0,42.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Virar,"Bolinj, Virar - MPCB",2025-07-20 17:00:00,19.445821,72.7988231,PM10,21.0,61.0,42.0,40.0,42.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",2025-07-20 17:00:00,20.0073285,73.7762427,NH3,3.0,5.0,4.0,2.0,1.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",2025-07-20 17:00:00,20.0073285,73.7762427,CO,11.0,13.0,12.0,2.0,228.0,Poor,2025-07-20,17:00:00
+India,Maharashtra,Nashik,"Hirawadi, Nashik - MPCB",2025-07-20 17:00:00,20.021503,73.813844,PM10,59.0,105.0,75.0,46.0,75.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Nashik,"Hirawadi, Nashik - MPCB",2025-07-20 17:00:00,20.021503,73.813844,NH3,2.0,3.0,2.0,1.0,0.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Nashik,"MIDC Ambad, Nashik - MPCB",2025-07-20 17:00:00,19.95022,73.73148,PM2.5,29.0,80.0,48.0,51.0,80.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Nashik,"Pandav Nagari, Nashik - MPCB",2025-07-20 17:00:00,19.9591346,73.7788008,PM2.5,10.0,32.0,21.0,22.0,35.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Navi Mumbai,"Mahape, Navi Mumbai - MPCB",2025-07-20 17:00:00,19.1135051,73.008978,NH3,3.0,3.0,3.0,0.0,1.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Navi Mumbai,"Sanpada, Navi Mumbai - MPCB",2025-07-20 17:00:00,19.0575752,73.0151367,NO2,1.0,9.0,5.0,8.0,6.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Navi Mumbai,"Sanpada, Navi Mumbai - MPCB",2025-07-20 17:00:00,19.0575752,73.0151367,SO2,2.0,13.0,6.0,11.0,8.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Navi Mumbai,"Sector-2E Kalamboli, Navi Mumbai - MPCB",2025-07-20 17:00:00,19.02579,73.10297,OZONE,1.0,24.0,15.0,23.0,15.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Akola,"Ramdaspeth, Akola - MPCB",2025-07-20 17:00:00,20.719516,77.000253,SO2,12.0,13.0,12.0,1.0,15.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Amravati,"Shivneri Colony, Amravati - MPCB",2025-07-20 17:00:00,20.9402359,77.7895248,PM2.5,30.0,65.0,47.0,35.0,78.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Amravati,"Shivneri Colony, Amravati - MPCB",2025-07-20 17:00:00,20.9402359,77.7895248,NO2,3.0,20.0,8.0,17.0,10.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Amravati,"Shivneri Colony, Amravati - MPCB",2025-07-20 17:00:00,20.9402359,77.7895248,NH3,2.0,2.0,2.0,0.0,0.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Amravati,"Shri Shivaji Science College, Amravati - MPCB",2025-07-20 17:00:00,20.939198,77.765701,PM2.5,15.0,63.0,38.0,48.0,63.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Amravati,"Shri Shivaji Science College, Amravati - MPCB",2025-07-20 17:00:00,20.939198,77.765701,SO2,4.0,8.0,6.0,4.0,8.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Aurangabad,"MIDC Chilkalthana, Aurangabad - MPCB",2025-07-20 17:00:00,19.87562,75.38731,PM10,24.0,63.0,46.0,39.0,46.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Aurangabad,"MIDC Chilkalthana, Aurangabad - MPCB",2025-07-20 17:00:00,19.87562,75.38731,CO,8.0,14.0,10.0,6.0,200.0, Moderate,2025-07-20,17:00:00
+India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",2025-07-20 17:00:00,19.8389439,75.244448,NO2,14.0,22.0,18.0,8.0,22.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",2025-07-20 17:00:00,19.8389439,75.244448,NH3,10.0,12.0,11.0,2.0,3.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Boisar,"Khaira, Boisar - MPCB",2025-07-20 17:00:00,19.786089,72.757971,NH3,4.0,6.0,5.0,2.0,1.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Boisar,"Khaira, Boisar - MPCB",2025-07-20 17:00:00,19.786089,72.757971,SO2,4.0,6.0,5.0,2.0,6.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Boisar,"Khaira, Boisar - MPCB",2025-07-20 17:00:00,19.786089,72.757971,OZONE,63.0,71.0,66.0,8.0,66.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",2025-07-20 17:00:00,19.9775302,79.2337086,PM2.5,24.0,90.0,46.0,66.0,76.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",2025-07-20 17:00:00,19.9775302,79.2337086,NO2,6.0,17.0,11.0,11.0,14.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",2025-07-20 17:00:00,19.9775302,79.2337086,NH3,1.0,4.0,2.0,3.0,0.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Dhule,"Deopur, Dhule - MPCB",2025-07-20 17:00:00,20.918946,74.776388,PM2.5,31.0,59.0,42.0,28.0,70.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Dhule,"Deopur, Dhule - MPCB",2025-07-20 17:00:00,20.918946,74.776388,CO,14.0,23.0,17.0,9.0,300.0,Poor,2025-07-20,17:00:00
+India,Maharashtra,Jalgaon,"Prabhat Colony, Jalgaon - MPCB",2025-07-20 17:00:00,21.001264,75.565602,PM2.5,21.0,34.0,28.0,13.0,47.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Jalgaon,"Prabhat Colony, Jalgaon - MPCB",2025-07-20 17:00:00,21.001264,75.565602,PM10,32.0,56.0,44.0,24.0,44.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Jalgaon,"Prabhat Colony, Jalgaon - MPCB",2025-07-20 17:00:00,21.001264,75.565602,CO,12.0,24.0,20.0,12.0,318.0,Very Poor,2025-07-20,17:00:00
+India,Maharashtra,Ahmednagar,"Tarakpur, Ahmednagar - MPCB",2025-07-20 17:00:00,19.10122,74.73339,PM2.5,20.0,37.0,30.0,17.0,50.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Ahmednagar,"Tarakpur, Ahmednagar - MPCB",2025-07-20 17:00:00,19.10122,74.73339,CO,8.0,41.0,32.0,33.0,388.0,Very Poor,2025-07-20,17:00:00
+India,Maharashtra,Aurangabad,"Rachnakar Colony, Aurangabad - MPCB",2025-07-20 17:00:00,19.863756,75.321188,PM10,39.0,68.0,55.0,29.0,55.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Aurangabad,"Rachnakar Colony, Aurangabad - MPCB",2025-07-20 17:00:00,19.863756,75.321188,NO2,10.0,26.0,15.0,16.0,19.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Aurangabad,"Rachnakar Colony, Aurangabad - MPCB",2025-07-20 17:00:00,19.863756,75.321188,OZONE,10.0,66.0,63.0,56.0,63.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Boisar,"Khaira, Boisar - MPCB",2025-07-20 17:00:00,19.786089,72.757971,NO2,2.0,14.0,7.0,12.0,9.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Navy Nagar-Colaba, Mumbai - IITM",2025-07-20 17:00:00,18.897756,72.81332,NH3,3.0,4.0,4.0,1.0,1.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Navy Nagar-Colaba, Mumbai - IITM",2025-07-20 17:00:00,18.897756,72.81332,CO,2.0,2.0,1.0,0.0,50.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Navy Nagar-Colaba, Mumbai - IITM",2025-07-20 17:00:00,18.897756,72.81332,OZONE,16.0,22.0,19.0,6.0,19.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Powai, Mumbai - MPCB",2025-07-20 17:00:00,19.1375,72.915056,PM2.5,13.0,37.0,22.0,24.0,37.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Powai, Mumbai - MPCB",2025-07-20 17:00:00,19.1375,72.915056,PM10,36.0,64.0,46.0,28.0,46.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Powai, Mumbai - MPCB",2025-07-20 17:00:00,19.1375,72.915056,CO,18.0,21.0,21.0,3.0,324.0,Very Poor,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Sewri, Mumbai - BMC",2025-07-20 17:00:00,19.000084,72.85673,PM10,27.0,68.0,48.0,41.0,48.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Shivaji Nagar, Mumbai - BMC",2025-07-20 17:00:00,19.060498,72.923356,NH3,2.0,2.0,2.0,0.0,0.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Siddharth Nagar-Worli, Mumbai - IITM",2025-07-20 17:00:00,19.000083,72.813993,NH3,9.0,11.0,10.0,2.0,2.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Sion, Mumbai - MPCB",2025-07-20 17:00:00,19.047,72.8746,PM2.5,16.0,40.0,30.0,24.0,50.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Latur,"Sawe Wadi, Latur - MPCB",2025-07-20 17:00:00,18.39963,76.57452,PM10,25.0,66.0,51.0,41.0,51.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Latur,"Sawe Wadi, Latur - MPCB",2025-07-20 17:00:00,18.39963,76.57452,NO2,6.0,49.0,19.0,43.0,24.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Latur,"Sawe Wadi, Latur - MPCB",2025-07-20 17:00:00,18.39963,76.57452,NH3,2.0,15.0,6.0,13.0,2.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Latur,"Sawe Wadi, Latur - MPCB",2025-07-20 17:00:00,18.39963,76.57452,CO,48.0,50.0,50.0,2.0,500.0,Severe,2025-07-20,17:00:00
+India,Maharashtra,Mahad,"Kamble Tarf Birwadi, Mahad - MPCB",2025-07-20 17:00:00,18.1023399,73.4783687,NH3,6.0,7.0,6.0,1.0,2.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mahad,"Kamble Tarf Birwadi, Mahad - MPCB",2025-07-20 17:00:00,18.1023399,73.4783687,SO2,20.0,27.0,23.0,7.0,29.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Malegaon,"Mahesh Nagar, Malegaon - MPCB",2025-07-20 17:00:00,20.555712,74.529236,SO2,1.0,5.0,2.0,4.0,2.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mira-Bhayandar,"Bhayandar West, Mira-Bhayandar - MPCB",2025-07-20 17:00:00,19.296481,72.840923,PM2.5,13.0,29.0,22.0,16.0,37.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Deonar, Mumbai - IITM",2025-07-20 17:00:00,19.04946,72.923,CO,5.0,48.0,32.0,43.0,388.0,Very Poor,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Ghatkopar, Mumbai - BMC",2025-07-20 17:00:00,19.083694,72.920967,PM2.5,9.0,24.0,16.0,15.0,27.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Ghatkopar, Mumbai - BMC",2025-07-20 17:00:00,19.083694,72.920967,SO2,1.0,1.0,1.0,0.0,1.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Kandivali East, Mumbai - MPCB",2025-07-20 17:00:00,19.2058,72.8682,NH3,1.0,2.0,1.0,1.0,0.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Kherwadi_Bandra East, Mumbai - MPCB",2025-07-20 17:00:00,19.0632143,72.8456324,PM2.5,16.0,31.0,22.0,15.0,37.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Kherwadi_Bandra East, Mumbai - MPCB",2025-07-20 17:00:00,19.0632143,72.8456324,NO2,11.0,33.0,27.0,22.0,34.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Kherwadi_Bandra East, Mumbai - MPCB",2025-07-20 17:00:00,19.0632143,72.8456324,SO2,2.0,3.0,3.0,1.0,4.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Jalna,"Old MIDC, Jalna - MPCB",2025-07-20 17:00:00,19.854616,75.905894,CO,8.0,20.0,11.0,12.0,214.0,Poor,2025-07-20,17:00:00
+India,Maharashtra,Kalyan,"Khadakpada, Kalyan - MPCB",2025-07-20 17:00:00,19.25292,73.142019,SO2,6.0,7.0,6.0,1.0,8.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Kalyan,"Khadakpada, Kalyan - MPCB",2025-07-20 17:00:00,19.25292,73.142019,CO,10.0,12.0,10.0,2.0,200.0, Moderate,2025-07-20,17:00:00
+India,Maharashtra,Kolhapur,"Shivaji University, Kolhapur - MPCB",2025-07-20 17:00:00,16.6870449,74.2505872,NH3,7.0,8.0,8.0,1.0,2.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Kolhapur,"Shivaji University, Kolhapur - MPCB",2025-07-20 17:00:00,16.6870449,74.2505872,SO2,1.0,2.0,2.0,1.0,2.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Kolhapur,"Sinchan Bhavan, Kolhapur - MPCB",2025-07-20 17:00:00,16.7143745,74.2426398,PM10,27.0,45.0,35.0,18.0,35.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Malad West, Mumbai - IITM",2025-07-20 17:00:00,19.19709,72.82204,NO2,26.0,56.0,40.0,30.0,50.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Mazgaon, Mumbai - IITM",2025-07-20 17:00:00,18.96702,72.84214,CO,17.0,32.0,24.0,15.0,341.0,Very Poor,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Mindspace-Malad West, Mumbai - MPCB",2025-07-20 17:00:00,19.1878657,72.8304069,NH3,5.0,6.0,6.0,1.0,2.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Mulund West, Mumbai - MPCB",2025-07-20 17:00:00,19.175,72.9419,NO2,12.0,14.0,13.0,2.0,16.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Mulund West, Mumbai - MPCB",2025-07-20 17:00:00,19.175,72.9419,NH3,3.0,4.0,4.0,1.0,1.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Nagpur,"Opp GPO Civil Lines, Nagpur - MPCB",2025-07-20 17:00:00,21.152875,79.0517531,PM2.5,21.0,121.0,59.0,100.0,98.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Nagpur,"Ram Nagar, Nagpur - MPCB",2025-07-20 17:00:00,21.143383,79.048912,PM2.5,35.0,103.0,64.0,68.0,111.0, Moderate,2025-07-20,17:00:00
+India,Maharashtra,Nagpur,"Ram Nagar, Nagpur - MPCB",2025-07-20 17:00:00,21.143383,79.048912,OZONE,3.0,26.0,19.0,23.0,19.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Nanded,"Sneh Nagar, Nanded - MPCB",2025-07-20 17:00:00,19.173852,77.296291,CO,22.0,52.0,42.0,30.0,450.0,Severe,2025-07-20,17:00:00
+India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",2025-07-20 17:00:00,20.0073285,73.7762427,NO2,13.0,39.0,25.0,26.0,31.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Sion, Mumbai - MPCB",2025-07-20 17:00:00,19.047,72.8746,PM10,13.0,50.0,33.0,37.0,33.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Sion, Mumbai - MPCB",2025-07-20 17:00:00,19.047,72.8746,NH3,3.0,3.0,3.0,0.0,1.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Vasai West, Mumbai - MPCB",2025-07-20 17:00:00,19.3832,72.8204,CO,58.0,60.0,58.0,2.0,,Unknown,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Vasai West, Mumbai - MPCB",2025-07-20 17:00:00,19.3832,72.8204,OZONE,13.0,29.0,16.0,16.0,16.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Nagpur,"Ambazari, Nagpur - MPCB",2025-07-20 17:00:00,21.121801,79.04952,CO,4.0,114.0,10.0,110.0,200.0, Moderate,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Chakala-Andheri East, Mumbai - IITM",2025-07-20 17:00:00,19.11074,72.86084,NO2,13.0,29.0,20.0,16.0,25.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Chembur, Mumbai - MPCB",2025-07-20 17:00:00,19.0364585,72.8954371,PM10,45.0,69.0,58.0,24.0,58.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Chembur, Mumbai - MPCB",2025-07-20 17:00:00,19.0364585,72.8954371,CO,25.0,34.0,29.0,9.0,371.0,Very Poor,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",2025-07-20 17:00:00,19.10078,72.87462,NH3,1.0,1.0,1.0,0.0,0.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Bandra Kurla Complex, Mumbai - IITM",2025-07-20 17:00:00,19.053536,72.84643,PM2.5,14.0,69.0,34.0,55.0,56.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Bandra Kurla Complex, Mumbai - MPCB",2025-07-20 17:00:00,19.065931,72.862131,OZONE,2.0,65.0,11.0,63.0,11.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Borivali East, Mumbai - IITM",2025-07-20 17:00:00,19.23241,72.86895,PM10,15.0,67.0,39.0,52.0,39.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Mumbai,"Borivali East, Mumbai - IITM",2025-07-20 17:00:00,19.23241,72.86895,OZONE,1.0,12.0,8.0,11.0,8.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Nashik,"Hirawadi, Nashik - MPCB",2025-07-20 17:00:00,20.021503,73.813844,NO2,1.0,9.0,4.0,8.0,5.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Nashik,"Hirawadi, Nashik - MPCB",2025-07-20 17:00:00,20.021503,73.813844,SO2,1.0,8.0,3.0,7.0,4.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Nashik,"MIDC Ambad, Nashik - MPCB",2025-07-20 17:00:00,19.95022,73.73148,PM10,68.0,104.0,81.0,36.0,81.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Nashik,"MIDC Ambad, Nashik - MPCB",2025-07-20 17:00:00,19.95022,73.73148,NO2,7.0,22.0,12.0,15.0,15.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Nashik,"MIDC Ambad, Nashik - MPCB",2025-07-20 17:00:00,19.95022,73.73148,NH3,1.0,2.0,1.0,1.0,0.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Nashik,"MIDC Ambad, Nashik - MPCB",2025-07-20 17:00:00,19.95022,73.73148,CO,10.0,14.0,13.0,4.0,243.0,Poor,2025-07-20,17:00:00
+India,Maharashtra,Nashik,"Pandav Nagari, Nashik - MPCB",2025-07-20 17:00:00,19.9591346,73.7788008,PM10,38.0,58.0,46.0,20.0,46.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Nashik,"Pandav Nagari, Nashik - MPCB",2025-07-20 17:00:00,19.9591346,73.7788008,CO,6.0,11.0,10.0,5.0,200.0, Moderate,2025-07-20,17:00:00
+India,Maharashtra,Nashik,"Pandav Nagari, Nashik - MPCB",2025-07-20 17:00:00,19.9591346,73.7788008,OZONE,17.0,27.0,24.0,10.0,24.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Navi Mumbai,"Kopripada-Vashi, Navi Mumbai - MPCB",2025-07-20 17:00:00,19.090337,73.014232,PM2.5,5.0,27.0,16.0,22.0,27.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Navi Mumbai,"Kopripada-Vashi, Navi Mumbai - MPCB",2025-07-20 17:00:00,19.090337,73.014232,CO,24.0,87.0,31.0,63.0,382.0,Very Poor,2025-07-20,17:00:00
+India,Maharashtra,Navi Mumbai,"Sanpada, Navi Mumbai - MPCB",2025-07-20 17:00:00,19.0575752,73.0151367,PM2.5,26.0,38.0,33.0,12.0,54.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Navi Mumbai,"Sanpada, Navi Mumbai - MPCB",2025-07-20 17:00:00,19.0575752,73.0151367,OZONE,1.0,19.0,15.0,18.0,15.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Navi Mumbai,"Sector-2E Kalamboli, Navi Mumbai - MPCB",2025-07-20 17:00:00,19.02579,73.10297,PM10,40.0,94.0,63.0,54.0,63.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Navi Mumbai,"Sector-2E Kalamboli, Navi Mumbai - MPCB",2025-07-20 17:00:00,19.02579,73.10297,NH3,1.0,2.0,1.0,1.0,0.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Navi Mumbai,"Sector-2E Kalamboli, Navi Mumbai - MPCB",2025-07-20 17:00:00,19.02579,73.10297,SO2,5.0,7.0,6.0,2.0,8.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Navi Mumbai,"Sector-2E Kalamboli, Navi Mumbai - MPCB",2025-07-20 17:00:00,19.02579,73.10297,CO,15.0,25.0,16.0,10.0,286.0,Poor,2025-07-20,17:00:00
+India,Maharashtra,Navi Mumbai,"Tondare-Taloja, Navi Mumbai - MPCB",2025-07-20 17:00:00,19.063,73.1209,NH3,5.0,8.0,6.0,3.0,2.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Pimpri-Chinchwad,"Gavalinagar, Pimpri Chinchwad - MPCB",2025-07-20 17:00:00,18.63673,73.82487,OZONE,1.0,22.0,18.0,21.0,18.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Pune,"Katraj Dairy, Pune - MPCB",2025-07-20 17:00:00,18.45445,73.854155,SO2,3.0,4.0,4.0,1.0,5.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Pune,"Mhada Colony, Pune - IITM",2025-07-20 17:00:00,18.57304,73.927715,CO,56.0,77.0,69.0,21.0,,Unknown,2025-07-20,17:00:00
+India,Maharashtra,Pune,"Panchawati_Pashan, Pune - IITM",2025-07-20 17:00:00,18.536457,73.805454,PM2.5,29.0,46.0,36.0,17.0,59.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Pune,"Panchawati_Pashan, Pune - IITM",2025-07-20 17:00:00,18.536457,73.805454,OZONE,1.0,31.0,23.0,30.0,23.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Pune,"Revenue Colony-Shivajinagar, Pune - IITM",2025-07-20 17:00:00,18.530085,73.849598,OZONE,1.0,27.0,11.0,26.0,11.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Pune,"Savitribai Phule Pune University, Pune - MPCB",2025-07-20 17:00:00,18.547056,73.826908,PM2.5,15.0,31.0,23.0,16.0,38.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Solapur,"Dnyaneshwar Nagar, Solapur - MPCB",2025-07-20 17:00:00,17.6336264,75.9132495,PM10,19.0,74.0,49.0,55.0,49.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Solapur,"Dnyaneshwar Nagar, Solapur - MPCB",2025-07-20 17:00:00,17.6336264,75.9132495,NH3,7.0,14.0,10.0,7.0,2.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Solapur,"Ratandeep Housing Society, Solapur - MPCB",2025-07-20 17:00:00,17.65439,75.90649,PM2.5,9.0,61.0,36.0,52.0,59.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Solapur,"Ratandeep Housing Society, Solapur - MPCB",2025-07-20 17:00:00,17.65439,75.90649,PM10,22.0,90.0,46.0,68.0,46.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Solapur,"Ratandeep Housing Society, Solapur - MPCB",2025-07-20 17:00:00,17.65439,75.90649,NO2,4.0,38.0,13.0,34.0,16.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Solapur,"Ratandeep Housing Society, Solapur - MPCB",2025-07-20 17:00:00,17.65439,75.90649,NH3,2.0,8.0,4.0,6.0,1.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Solapur,"Ratandeep Housing Society, Solapur - MPCB",2025-07-20 17:00:00,17.65439,75.90649,OZONE,7.0,49.0,37.0,42.0,37.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Thane,"Kasarvadavali, Thane - MPCB",2025-07-20 17:00:00,19.26777,72.97182,CO,16.0,34.0,22.0,18.0,330.0,Very Poor,2025-07-20,17:00:00
+India,Maharashtra,Pimpri-Chinchwad,"Thergaon, Pimpri Chinchwad - MPCB",2025-07-20 17:00:00,18.616318,73.765797,SO2,1.0,3.0,2.0,2.0,2.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Pimpri-Chinchwad,"Thergaon, Pimpri Chinchwad - MPCB",2025-07-20 17:00:00,18.616318,73.765797,OZONE,6.0,15.0,13.0,9.0,13.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Pune,"Bhosari, Pune - IITM",2025-07-20 17:00:00,18.640051,73.848956,CO,16.0,54.0,36.0,38.0,413.0,Severe,2025-07-20,17:00:00
+India,Maharashtra,Pune,"Bhumkar Nagar, Pune - IITM",2025-07-20 17:00:00,18.60577,73.749976,PM10,16.0,192.0,52.0,176.0,52.0,Satisfactory,2025-07-20,17:00:00
+India,Maharashtra,Pune,"Dhankawadi, Pune - IITM",2025-07-20 17:00:00,18.459883,73.852193,NO2,16.0,19.0,17.0,3.0,21.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Thane,"Kasarvadavali, Thane - MPCB",2025-07-20 17:00:00,19.26777,72.97182,OZONE,4.0,14.0,9.0,10.0,9.0,Good,2025-07-20,17:00:00
+India,Maharashtra,Thane,"Upvan Fort, Thane - MPCB",2025-07-20 17:00:00,19.222279,72.957979,CO,42.0,62.0,49.0,20.0,494.0,Severe,2025-07-20,17:00:00
+India,Maharashtra,Ulhasnagar,"Sidhi Vinayak Nagar, Ulhasnagar - MPCB",2025-07-20 17:00:00,19.235581,73.159121,CO,17.0,70.0,22.0,53.0,330.0,Very Poor,2025-07-20,17:00:00
+India,Maharashtra,Virar,"Bolinj, Virar - MPCB",2025-07-20 17:00:00,19.445821,72.7988231,OZONE,12.0,35.0,27.0,23.0,27.0,Good,2025-07-20,17:00:00

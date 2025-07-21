@@ -28,12 +28,12 @@ To collect, transform, and analyze real-time air quality data of Indian state Ma
 ## 🔁 ETL Pipeline
 
 ### 📥 Extract
-- AWS Lambda triggered by EventBridge on hourly basis(maharastra_air_quality_load function)
+- AWS Lambda triggered by EventBridge on hourly basis(maharastra_air_quality_extract function)
 - Fetches data from Data.gov.in API
 - Saves raw JSON to Amazon S3
 
 ### 🔧 Transform
-- S3 event triggers another Lambda(maharastra_air_quality_extract function)
+- S3 event triggers another Lambda(maharastra_air_quality_load function)
 - Cleans and enriches data like:
 -  1.adding new columns like range, aqi_value, air_quality, data and time column.
 -  2.pivot_time_city: To analyze how AQI values vary hourly across different cities.
@@ -57,5 +57,11 @@ To collect, transform, and analyze real-time air quality data of Indian state Ma
 | `pandas`      | Core library for data analysis, transformation, and pivot table generation |
 | `io.StringIO` | Built-in module to handle in-memory CSV string conversion before uploading |
 
+## IAM Roles required for lambda functions:
+### 1. maharastra_air_quality_extract function
+####       1.AmazonS3FullAccess
+####       2.AWSLambdaRole
 
-
+### 2. maharastra_air_quality_load_function
+####       1.AmazonS3FullAccess
+####       2.AWSLambdaRole

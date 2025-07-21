@@ -104,3 +104,9 @@ To collect, transform, and analyze real-time air quality data of Indian state Ma
 
 <img width="1885" height="999" alt="Screenshot 2025-07-20 193927" src="https://github.com/user-attachments/assets/d6a8ab22-c6c7-4230-b6ce-2132eb625e3c" />
 
+
+
+<img width="1919" height="1059" alt="Screenshot 2025-07-20 193949" src="https://github.com/user-attachments/assets/a5225ea7-ab1e-4831-9cb4-921ee668fd8f" />
+
+
+<img width="1919" height="1073" alt="Screenshot 2025-07-20 194052" src="https://github.com/user-attachments/assets/fb44b860-d497-44d0-88be-8bb753089824" />
